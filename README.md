@@ -1,1 +1,2 @@
 # odin-recipes
+This is an HTML project which will be a website showing different recipes. I will use this project to practice the various GIT and HTML teachings I have been through thus far. Skills displayed will include Git repository creation and cloning. HTML Boilerplate, Links, Images, Lists, etc.
