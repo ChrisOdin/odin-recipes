@@ -1,0 +1,1 @@
+This project is an HTML, CSS and JavaScript learning experience. I am re-creating this file and the entire project as a refresher because it has been a few years since I've worked on this. I will be learning and utilizing various skills within the lifecycle of this project.
